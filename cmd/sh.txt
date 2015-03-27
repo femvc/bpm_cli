@@ -1,0 +1,10 @@
+bpm init --hui_control
+bpm init --hui_action
+bpm publish
+
+bpm install control
+bpm install action
+
+bpm init -> package.json 
+
+
